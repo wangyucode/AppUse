@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppUse</string>
+    <string name="count">启动%d次</string>
+    <string name="time">使用%d秒</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="time_hour">使用%1$d小时%2$d分%3$d秒</string>
+    <string name="time_minute">使用%1$d分%2$d秒</string>
+</resources>
